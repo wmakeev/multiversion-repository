@@ -1,6 +1,6 @@
 {
   "name": "multiversion-repository",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "",
   "main": "multiversion-repository.js",
   "scripts": {
