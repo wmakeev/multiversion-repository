@@ -28,6 +28,9 @@ define({
     },
     "scaleapp": {
       "0.5.0": "//cdn.rawgit.com/wmakeev/scaleApp/08f5e61b5f4c044f2c130604d8372c41dacf9d8b/dist/scaleApp.js"
+    },
+    "semver": {
+      "5.0.0": "//cdn.rawgit.com/wmakeev/node-semver/5284ffbd6f25fa5f576b9e563b0a401a2a94d252/dist/semver.js"
     }
   },
   "format_version": "2"
