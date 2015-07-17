@@ -3,7 +3,8 @@ define({
     "lodash": {
       "2.4.1": "//cdn.jsdelivr.net/lodash/2.4.1/lodash.min.js",
       "3.8.0": "//cdn.jsdelivr.net/lodash/3.8.0/lodash.min.js",
-      "3.9.3": "//cdn.rawgit.com/lodash/lodash/3.9.3/lodash.min.js"
+      "3.9.3": "//cdn.rawgit.com/lodash/lodash/3.9.3/lodash.min.js",
+      "3.10.0": "//cdn.rawgit.com/lodash/lodash/3.10.0/lodash.min.js"
     },
     "moment": {
       "2.10.3": "//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"
@@ -24,14 +25,18 @@ define({
       "0.0.4": "//cdn.rawgit.com/airportyh/simulate.js/v0.0.4/simulate.js"
     },
     "moysklad-router": {
-      "0.1.2": "//rawgit.com/wmakeev/moysklad-router/master/dist/moysklad-router.js"
+      "0.1.2": "//cdn.rawgit.com/wmakeev/moysklad-router/fabaacafabfdf20722d6b67a92f8fc8366da08d8/dist/moysklad-router.js",
+      "0.3.0": "//cdn.rawgit.com/wmakeev/moysklad-router/96295ea3f7672bd42922110a4b08b46eefee08d0/build/multidep/amd/bundle.js"
     },
     "scaleapp": {
       "0.5.0": "//cdn.rawgit.com/wmakeev/scaleApp/08f5e61b5f4c044f2c130604d8372c41dacf9d8b/dist/scaleApp.js"
     },
     "semver": {
       "5.0.0": "//cdn.rawgit.com/wmakeev/node-semver/5284ffbd6f25fa5f576b9e563b0a401a2a94d252/dist/semver.js"
+    },
+    "event-emitter": {
+      "0.3.3": "//wzrd.in/standalone/event-emitter@0.3.3"
     }
-  },
+},
   "format_version": "2"
 });
