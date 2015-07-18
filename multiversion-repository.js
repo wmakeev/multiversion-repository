@@ -26,7 +26,7 @@ define({
     },
     "moysklad-router": {
       "0.1.2": "//cdn.rawgit.com/wmakeev/moysklad-router/fabaacafabfdf20722d6b67a92f8fc8366da08d8/dist/moysklad-router.js",
-      "0.3.0": "//cdn.rawgit.com/wmakeev/moysklad-router/b93e14dbf4511ea010984c11a9648ca4ae93192b/build/multidep/amd/moysklad-router.js"
+      "0.3.2": "//cdn.rawgit.com/wmakeev/moysklad-router/dd9b38887d21c7f5d95923dabbc5e50400a71e3c/build/multidep/amd/moysklad-router.js"
     },
     "scaleapp": {
       "0.5.0": "//cdn.rawgit.com/wmakeev/scaleApp/08f5e61b5f4c044f2c130604d8372c41dacf9d8b/dist/scaleApp.js"
