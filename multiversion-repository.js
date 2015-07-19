@@ -22,7 +22,7 @@ define({
       "2.7.0": "//cdn.rawgit.com/rpominov/kefir/2.7.0/dist/kefir.min.js"
     },
     "simulate": {
-      "0.0.4": "//cdn.rawgit.com/airportyh/simulate.js/v0.0.4/simulate.js"
+      "0.0.4": "//wzrd.in/standalone/simulate@0.0.4"
     },
     "moysklad-router": {
       "0.1.2": "//cdn.rawgit.com/wmakeev/moysklad-router/fabaacafabfdf20722d6b67a92f8fc8366da08d8/dist/moysklad-router.js",
